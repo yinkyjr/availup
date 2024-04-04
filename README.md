@@ -67,3 +67,5 @@ curl -sL1 avail.sh | bash -s -- --upgrade y
 ```
 
 > ℹ️ Upgrading the LC only works if the binary was installed with the latest `availup` script or cargo.
+> 
+curl -sL1 avail.sh | bash
